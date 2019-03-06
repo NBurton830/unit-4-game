@@ -1,0 +1,27 @@
+.gem {
+    display: inline;
+    width: 200;
+    height: 200;
+}
+
+.random-number {
+    background-color: red;
+    font-size: 30px;
+}
+
+.header {
+    text-align: center;
+    font-size: 50px;
+    margin: 10px;
+}
+.all-gems {
+    width: 80%;
+}
+
+.instructions {
+    font-size: 20px;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+}
